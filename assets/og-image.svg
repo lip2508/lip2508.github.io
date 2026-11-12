@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#06231f"/>
+  <g stroke="#0d3f39" stroke-width="1">
+    <path d="M0 58h1200M0 116h1200M0 174h1200M0 232h1200M0 290h1200M0 348h1200M0 406h1200M0 464h1200M0 522h1200M0 580h1200"/>
+    <path d="M58 0v630M116 0v630M174 0v630M232 0v630M290 0v630M348 0v630M406 0v630M464 0v630M522 0v630M580 0v630M638 0v630M696 0v630M754 0v630M812 0v630M870 0v630M928 0v630M986 0v630M1044 0v630M1102 0v630M1160 0v630"/>
+  </g>
+  <g transform="translate(930 315)" fill="none" stroke="#00a19c">
+    <g stroke-width="2.5" opacity="0.85">
+      <rect x="-150" y="-150" width="300" height="300"/>
+      <rect x="-150" y="-150" width="300" height="300" transform="rotate(45)"/>
+    </g>
+    <g stroke-width="2" opacity="0.5">
+      <rect x="-110" y="-110" width="220" height="220"/>
+      <rect x="-110" y="-110" width="220" height="220" transform="rotate(45)"/>
+    </g>
+    <g stroke-width="2" opacity="0.3">
+      <rect x="-70" y="-70" width="140" height="140"/>
+      <rect x="-70" y="-70" width="140" height="140" transform="rotate(45)"/>
+    </g>
+  </g>
+  <text x="90" y="250" font-family="Poppins, Arial, sans-serif" font-size="34" fill="#00a19c" letter-spacing="4">SOFTWARE ENGINEERING UNDERGRADUATE</text>
+  <text x="90" y="345" font-family="Poppins, Arial, sans-serif" font-size="76" font-weight="700" fill="#eaf3f1">Muhammad Alif</text>
+  <text x="90" y="425" font-family="Poppins, Arial, sans-serif" font-size="76" font-weight="700" fill="#00a19c">Hakimi</text>
+  <text x="90" y="500" font-family="Poppins, Arial, sans-serif" font-size="28" fill="#7e9c97">Sunway University &#183; PETRONAS PESP Scholar</text>
+</svg>
